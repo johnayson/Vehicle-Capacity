@@ -1,11 +1,4 @@
-/*
- * Class: CS 111B Objected-Oriented Programming Methodologies in Java
- * Description: Person class that has the person's name.
- * Due date: 10/23/2015
- * File name: Person.java
- * Assignment #6
- * Programmed by John Ayson.
- */
+
 
 public class Person
 {
