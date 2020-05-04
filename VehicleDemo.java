@@ -1,9 +1,6 @@
 /*
- * Class: CS 111B Objected-Oriented Programming Methodologies in Java
  * Description: Driver class that demonstrates the person,vehicle and truck class.
- * Due date: 10/23/2015
  * File name: VehicleDemo.java
- * Assignment #6
  * Programmed by John Ayson.
  */
 public class VehicleDemo
